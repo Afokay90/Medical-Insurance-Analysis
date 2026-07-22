@@ -58,4 +58,4 @@ Using interactive visualizations and filters, users can explore how BMI, smoking
 --- 
 
 **Dashboard Preview**
-![Medical_Insurance_Dashboard](Medical_insurance_Dashboard)
+![Medical_Insurance_Dashboard](Medical_Insurance_Dashboard.png)
